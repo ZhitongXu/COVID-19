@@ -32,21 +32,27 @@
 
 ## 参考文献
 [1]	新京报. 数读：封城后的武汉之变.
+
 http://www.bjnews.com.cn/graphic/2020/02/23/693775.html, 2020-02-23.
 
 [2]	环球网. 湖北一线重症专业医生护士缺口分别为30%和50%.
+
 https://baijiahao.baidu.com/s?id=1657153305119111982&wfr=spider&for=pc, 2020-01-30.
 
 [3]	国家卫生健康委医政医管局关于组派医疗队援助湖北应对新型冠状病毒感染的肺炎疫情的函.
 
 [4]	网易新闻. 将近3万人，驰援湖北的医疗队都从哪来.
+
 https://mp.weixin.qq.com/s/gOXAuqKFGq9o7l2nGoO3NA, 2020-02-22.
 
 [5]	21世纪经济报道. 最新！广东已向湖北派出21批医疗队共2248人.
+
 https://m.21jingji.com/article/20200220/herald/e34028df2379af26efd9533d629dbd07.html, 2020-02-20.
 
 [6]	人民日报. 一线医务人员保障政策出台.
+
 http://paper.people.com.cn/rmrb/html/2020-02/21/nw.D110000renmrb_20200221_4-02.htm, 2020-02-21.
 
 [7]	澎湃新闻. 全国各地支援湖北医疗队人数已达到38000余人.
+
 https://www.thepaper.cn/newsDetail_forward_6077587, 2020-02-22.
